@@ -284,4 +284,5 @@ Finally, the alphabet corresponding to the detected gesture is passed to the TTS
 engine.
 
 12. Experiments with the Prototype/Workability
+
 --------------END OF REPORT--------------
