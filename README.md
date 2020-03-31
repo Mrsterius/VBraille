@@ -284,8 +284,4 @@ Finally, the alphabet corresponding to the detected gesture is passed to the TTS
 engine.
 
 12. Experiments with the Prototype/Workability
-
-Fig 2: The Alphabet ‘A’Fig 3: The Alphabet ‘B’
-Video LINK of the Project DEMO:
-http://youtu.be/5zy1_OcHMzI
 --------------END OF REPORT--------------
